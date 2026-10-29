@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Scopewright",
+      "hasCanvas": false,
+      "bodyTextLen": 2279,
+      "bodyTextHash": "b2f28ffd1a4ba8cd5167264a2ab786c58dedab0cd290c10c35f1e87a3cde84c0",
+      "bodyTextPrefix": "SCOPEWRIGHT Finish the version someone can buy. Ideas arrive alr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Scopewright",
+      "hasCanvas": false,
+      "bodyTextLen": 2279,
+      "bodyTextHash": "b2f28ffd1a4ba8cd5167264a2ab786c58dedab0cd290c10c35f1e87a3cde84c0",
+      "bodyTextPrefix": "SCOPEWRIGHT Finish the version someone can buy. Ideas arrive alr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
